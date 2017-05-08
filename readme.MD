@@ -1,4 +1,4 @@
-# Concurrent Voting At Polling Booth
+# Concurrent Voting At Polling Booths
 A concurrent process of voting where the threads representing evms, voters and booths run concurrently using conditional variables and mutex locks.
 
 ## Compile and Run
